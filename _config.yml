@@ -94,9 +94,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Lee Ji Hwan"
+  avatar           : "/assets/images/GitHub-Mark-120px-plus.png"
+  bio              : "Computer Engineering Student"
   location         : "Hankyoung National University, South of Korea"
   email            : qhddl2650@gmail.com
   links:

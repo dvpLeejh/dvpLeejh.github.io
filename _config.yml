@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Lee Ji Hwan"
-  avatar           : "/assets/images/GitHub-Mark-Light-120px-plus"
+  avatar           : #"/assets/images/GitHub-Mark-Light-120px-plus"
   bio              : "I'm Computer Engineering student."
   location         : "Hankyoung National University, South of Korea"
   email            : qhddl2650@gmail.com

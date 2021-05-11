@@ -278,9 +278,9 @@ defaults:
       author_profile: true
       read_time: true   
       comments:
-      provider: "utterances"
-      utterances:
-      theme: "github-light" # "github-dark"
-      issue_term: "pathname"
+        provider: "utterances"
+        utterances:
+          theme: "github-light" # "github-dark"
+          issue_term: "pathname"
       share: true
       related: true

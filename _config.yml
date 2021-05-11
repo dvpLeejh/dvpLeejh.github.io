@@ -277,6 +277,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true   
-      comments: true
+      comments:
+      provider: "utterances"
+      utterances:
+      theme: "github-light" # "github-dark"
+      issue_term: "pathname"
       share: true
       related: true

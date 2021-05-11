@@ -98,11 +98,11 @@ author:
   avatar           : "/assets/images/GitHub-Mark-120px-plus.png"
   bio              : "Computer Engineering Student"
   location         : "Hankyoung National University, South of Korea"
-  email            : qhddl2650@gmail.com
+  email            : #qhddl2650@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      #url: "qhddl2650@email.com"
+      url: "qhddl2650@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -115,8 +115,8 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dvpLeejh"
-    - label: "location"
-      icon: "fab fa-fw fa-location"
+    - label: "Hankyoung National University"
+      icon: "/assets/images/hknu.png""
       url: "https://www.hknu.ac.kr/sites/kor/index.do"
 
 # Site Footer

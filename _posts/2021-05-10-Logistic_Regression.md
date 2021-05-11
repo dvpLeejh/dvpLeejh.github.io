@@ -4,6 +4,12 @@ tags:
   - Machine Learning
   - Logistic Regression
   - Project
+
+categories:
+    - Machine Learning
+
+last_modified_at: 20121-05-12
+
 use_math: true
 ---
 

@@ -115,9 +115,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dvpLeejh"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "location"
+      icon: "fab fa-fw fa-location"
+      url: "https://www.hknu.ac.kr/sites/kor/index.do"
 
 # Site Footer
 footer:

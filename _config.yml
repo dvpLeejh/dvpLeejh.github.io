@@ -250,8 +250,9 @@ tag_archive:
 #   enabled:
 #     - categories
 #     - tags
-layouts: splash
-  header:
+
+header:
+  layouts: splash
     image: /assets/images/mountain.jpg
 #     category: archive-taxonomy
 #     tag: archive-taxonomy

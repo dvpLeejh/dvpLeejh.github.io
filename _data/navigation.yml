@@ -6,16 +6,19 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+
 docs:
   - title: "Machine Learning"
     url: "/categories/#Machine-Learning"
-  - title: "Full Stack"
+
+  - title: Full Stack
     children:
       -title: "Web Programming"
        url: "categories/#Web-Programming"
-  - title: "Game Project"
+
+  - title: Game Project
     children:
       -title: "Unity"
-       url : "categories/#Unity"
+       url: "categories/#Unity"
   # - title: "Sitemap"
   #   url: /sitemap/

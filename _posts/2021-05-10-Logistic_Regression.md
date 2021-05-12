@@ -8,6 +8,9 @@ tags:
 categories:
     - Machine Learning
 
+sidebar:
+  nav: "docs"
+  
 last_modified_at: 20121-05-12
 
 use_math: true

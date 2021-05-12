@@ -250,7 +250,7 @@ tag_archive:
 #   enabled:
 #     - categories
 #     - tags
-#   layouts:
+layouts: splash
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
@@ -284,5 +284,3 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
-    header:
-      image: /assets/images/mountain.jpg

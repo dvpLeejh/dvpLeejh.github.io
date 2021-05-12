@@ -16,7 +16,7 @@ toc: true
 toc_sticky: false
 ---
 
-# Logistic Regression 모델 구현
+# 1.Logistic Regression 모델 구현
 
 Logistic Regression 모델을 구현하여 Iris데이터를 분류하고 사이킷런 모델과 성능비교를 할것이다.
 
@@ -575,7 +575,7 @@ accuracy_score(y_test, y_pred)
 
 실제 모델과 유사한 성능임을 확인할수 있다.
 
-# Rogistic Regression 다중 클래스 분류 
+# 2.Logistic Regression 다중 클래스 분류 
 
 앞에서 구현된 로지스틱 회귀 알고리즘에 일대다(OvR) 방식을 적용하여 붓꽃에 대한 다중 클래스 분류 알고리즘을 구현한다. 단, 사이킷런을 전혀 사용하지 않는다.
 
@@ -827,7 +827,7 @@ multi_log_reg.score(X_test,y_test)
 
 setosa와 virginica에대해 모델을 설정하였다. 결과는 매우 좋게나왔다.
 
-# 사진 분류
+# 3.사진 분류
 
 A. 사진을 낮과 밤으로 분류하는 로지스틱 회귀 모델을 구현하라.
 

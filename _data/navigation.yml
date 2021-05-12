@@ -9,5 +9,9 @@ main:
 docs:
   - title: "Machine Learning"
     url: "/categories/#Machine-Learning"
+  - title: "Full Stack"
+    url: "/categories/#Full-Stack"
+  - title: "Unity"
+    url: "/categories/#unity"
   # - title: "Sitemap"
   #   url: /sitemap/

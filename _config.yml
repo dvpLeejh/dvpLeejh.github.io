@@ -199,9 +199,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-toc: true
-toc_sticky: False
-
 # Sass/SCSS
 sass:
   sass_dir: _sass

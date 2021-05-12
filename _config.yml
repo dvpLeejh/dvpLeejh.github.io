@@ -284,6 +284,3 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
-
-header:
-  image: /assets/images/mountain.jpg

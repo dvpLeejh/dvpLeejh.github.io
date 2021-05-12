@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/mountains.jpg
+  overlay_image: /assets/images/kmountin.jpg
   actions:
     - label: "<i class='fas fa-download'></i> Categories"
       url: "/https://dvpleejh.github.io/categories/"

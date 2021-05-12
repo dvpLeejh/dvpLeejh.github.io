@@ -282,3 +282,4 @@ defaults:
           shortname: https-dvpleejh-github-io
       share: true
       related: true
+      sidebar_main: true

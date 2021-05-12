@@ -13,7 +13,7 @@ last_modified_at: 20121-05-12
 use_math: true
 
 toc: true
-toc_sticky: false
+toc_sticky: true
 ---
 
 # 1.Logistic Regression 모델 구현

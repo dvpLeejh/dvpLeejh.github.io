@@ -9,7 +9,7 @@ header:
     - label: "<i class='fas fa-download'></i> Go to Pages"
       url: "https://dvpleejh.github.io/categories/"
 excerpt: >
-  Decide moutain you have to climb.<br />
+  Decide which mountain to climb.<br />
 ---
 
 {% include feature_row %}

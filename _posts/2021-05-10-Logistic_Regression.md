@@ -14,6 +14,9 @@ use_math: true
 
 toc: true
 toc_sticky: true
+
+header:
+  image: /assets/images/mountain.jpg
 ---
 
 # 1.Logistic Regression 모델 구현

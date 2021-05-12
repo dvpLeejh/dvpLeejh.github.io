@@ -250,9 +250,7 @@ tag_archive:
 #   enabled:
 #     - categories
 #     - tags
-
-header:
-  image: /assets/images/mountain.jpg
+#   layouts:
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:
@@ -275,6 +273,8 @@ defaults:
       path: ""
       type: posts
     values:
+      header:
+        image: /assets/images/mountain.jpg
       layout: single
       author_profile: true
       read_time: true   

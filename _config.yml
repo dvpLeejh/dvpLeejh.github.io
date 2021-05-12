@@ -269,12 +269,12 @@ compress_html:
 # Defaults
 defaults:
   # _posts
+
+  
   - scope:
       path: ""
       type: posts
     values:
-      header:
-        image: /assets/images/mountain.jpg
       layout: single
       author_profile: true
       read_time: true   
@@ -286,3 +286,5 @@ defaults:
       related: true
       sidebar:
         nav: "docs"
+      toc: true
+      toc_sticky: true

@@ -192,8 +192,10 @@ def logistic(logits):
 여기에서 n은 특성이 두개이므로 2가된다.
 
 $$
+\begin{align*}
 \hat y^{(i)} & = \theta^{T}\, \mathbf{x}^{(i)} \\
  & = \theta_0 + \theta_1\, \mathbf{x}_1^{(i)} + \cdots + \theta_n\, \mathbf{x}_n^{(i)}
+\end{align*}
 $$
 
 

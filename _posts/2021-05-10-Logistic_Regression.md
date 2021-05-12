@@ -11,6 +11,8 @@ categories:
 last_modified_at: 20121-05-12
 
 use_math: true
+
+toc: true
 ---
 
 # Logistic Regression 모델 구현

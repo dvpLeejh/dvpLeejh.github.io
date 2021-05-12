@@ -6,6 +6,8 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
+
+docs:
   - title: "Machine Learning"
     url: "/categories/Machine-Learning"
   # - title: "Sitemap"

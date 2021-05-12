@@ -252,8 +252,7 @@ tag_archive:
 #     - tags
 
 header:
-  layouts: splash
-    image: /assets/images/mountain.jpg
+  image: /assets/images/mountain.jpg
 #     category: archive-taxonomy
 #     tag: archive-taxonomy
 #   permalinks:

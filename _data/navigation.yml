@@ -8,6 +8,6 @@ main:
     url: /tags/
 docs:
   - title: "Machine Learning"
-    url: "/categories/Machine-Learning"
+    url: "/categories/#Machine-Learning"
   # - title: "Sitemap"
   #   url: /sitemap/

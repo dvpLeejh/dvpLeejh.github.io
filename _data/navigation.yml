@@ -13,12 +13,12 @@ docs:
 
   - title: Full Stack
     children:
-      -title: "Web Programming"
-       url: "categories/#Web-Programming"
+      - title: "Web Programming"
+        url: "categories/#Web-Programming"
 
   - title: Game Project
     children:
-      -title: "Unity"
-       url: "categories/#Unity"
+      - title: "Unity"
+        url: "categories/#Unity"
   # - title: "Sitemap"
   #   url: /sitemap/

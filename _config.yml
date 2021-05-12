@@ -288,16 +288,3 @@ defaults:
         nav: "docs"
       toc: true
       toc_sticky: true
-
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: splash
-      author_profile: true
-      toc: true
-      toc_sticky: true
-      head:
-        image: /assets/images/mountain.jpg

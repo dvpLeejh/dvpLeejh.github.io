@@ -11,7 +11,7 @@ last_modified_at: 20121-05-15
 
 use_math: true
 
-toc: true
+toc: false
 toc_sticky: true
 
 ---
@@ -38,7 +38,6 @@ toc_sticky: true
 ```js
 console.log("main.js 소스코드입니다.")
 alert("main.js 소스코드입니다.")
-
 ```
 
 위의 코드를 실행하게 되면
@@ -50,7 +49,7 @@ utf-8을 사용하고, 타이틀은 무엇이고 기타 등등에 대한 정보�
 console에 "main.js 소스코드입니다."를 출력
 및 "main.js 소스코드입니다." 알림문장을 출력하게 한다.
 
-![test_alert_html](https://user-images.githubusercontent.com/42956142/118363807-1892d380-b5d1-11eb-9b5c-6ca316c202c8.PNG)
+![test_alert_main](https://user-images.githubusercontent.com/42956142/118363966-9b1b9300-b5d1-11eb-8b99-3f786aece575.PNG)
 
 html파일을 크롬브라우저에 드래그 앤 드롭하면 
 위와같이 크롬브라우저에서 html파일을 실행한결과를 출력하게 된다.

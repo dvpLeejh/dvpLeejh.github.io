@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lee Ji Hwan"
+  name             : "Lee Jihwan"
   avatar           : "/assets/images/me.jpg"
   bio              : "artificial intelligence"
-  location         : "Hankyong National University"
+  location         : "GIST"
   email            : qhddl2650@gmail.com
   links:
     - label: "Email"
@@ -115,9 +115,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dvpLeejh"
-    - label: "Instagram"
+    - label: "CV"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://docs.google.com/document/d/1Pv1IVba47E_vWhdn2a6iyhEiZnIb4jNTcVvBldeanCs/edit?usp=sharing"
 
 # Site Footer
 footer:

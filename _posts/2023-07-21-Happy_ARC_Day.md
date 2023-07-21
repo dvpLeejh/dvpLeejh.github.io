@@ -4,15 +4,19 @@ title: "Happy ARC Day"
 date: 2023-07-21
 last_modified_at: 2023-07-21
 
+tags:
+  - Machine Learning
+
 ---
 
 # Happy ARC Day 🧩
 
-![horizontal-align.gif](Happy%20ARC%20Day%20%F0%9F%A7%A9%208577d5b32c6642df9053fed505cafbec/horizontal-align.gif)
+![horizontal-align](https://github.com/dvpLeejh/AI-Game-Programming/assets/42956142/b68a79fe-3426-4129-936f-5b4e8775f498)
 
-![diagonal-flip.gif](Happy%20ARC%20Day%20%F0%9F%A7%A9%208577d5b32c6642df9053fed505cafbec/diagonal-flip.gif)
+![diagonal-flip](https://github.com/dvpLeejh/AI-Game-Programming/assets/42956142/369dc257-2a80-4128-9656-63e6b60be3e2)
 
-![tetris.gif](Happy%20ARC%20Day%20%F0%9F%A7%A9%208577d5b32c6642df9053fed505cafbec/tetris.gif)
+![tetris](https://github.com/dvpLeejh/AI-Game-Programming/assets/42956142/47502896-7204-4a65-a031-8b5728b38ee1)
+
 
 ### Happy ARC Day 🧩
 
@@ -34,7 +38,7 @@ It is also a great chance for you to network and connect with like-minded indivi
 
 Come and join us in shaping the future of AI! We look forward to seeing you there.
 
-![Untitled](Happy%20ARC%20Day%20%F0%9F%A7%A9%208577d5b32c6642df9053fed505cafbec/Untitled.png)
+![Untitled](https://github.com/dvpLeejh/AI-Game-Programming/assets/42956142/d4455b5b-b81d-471f-bfe8-aa0db3a93f64)
 
 ### Tentative Schedule
 
@@ -48,4 +52,3 @@ Come and join us in shaping the future of AI! We look forward to seeing you ther
 | 17:30 | Coffee chat & Lab tour |
 | 18:00 | Dinner party |
 
-![Untitled](Happy%20ARC%20Day%20%F0%9F%A7%A9%208577d5b32c6642df9053fed505cafbec/Untitled%201.png)
